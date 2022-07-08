@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "tamiolaf-dot"
+  },
+  "targets": {
+    "tamiolaf-dot": {
+      "hosting": {
+        "cove": [
+          "cove-tamiolaf-dot"
+        ]
+      }
+    }
+  }
+}
