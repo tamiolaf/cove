@@ -1,17 +1,13 @@
 import './App.css';
-import animation from './animation.mp4';
+import VideoBehindText from './components/VideoBehindText';
+import ColorWheels from './components/ColorWheels';
 
 function App() {
   return (
-    <div >
-      <section className="App-header">
-        <div className="gsmr-logo">GSMR</div>
-      </section>
-      <section>
-
-      <video id="vid" src={animation} controls autoPlay loop muted>
-      </video>
-      </section>
+    <div>
+      <ColorWheels/>
+      <div style={{height:"50rem"}}></div>
+      <VideoBehindText/>
     </div>
   );
 }
