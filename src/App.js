@@ -6,6 +6,152 @@ function App() {
   return (
     <div>
       <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+
+
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+
+
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+      <ColorWheels/>
+
       <div style={{height:"50rem"}}></div>
       <VideoBehindText/>
     </div>
