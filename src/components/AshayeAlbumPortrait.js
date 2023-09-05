@@ -34,6 +34,8 @@ export const AshayeAlbumPortrait= () => {
 
 
     let pixels = ctx.getImageData(0, 0, width, height);
+
+    
     ctx.drawImage(video, 0, 0, width, height);
 
     console.log('pixels');
